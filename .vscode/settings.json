@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "manebi"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
