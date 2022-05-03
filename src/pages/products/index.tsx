@@ -1,8 +1,8 @@
 import { NextPage } from 'next';
 
-// TOP
-const Top: NextPage = () => {
+// 教材販売
+const Products: NextPage = () => {
   return <h1 className="text-3xl font-bold underline ">Hello world!</h1>;
 };
 
-export default Top;
+export default Products;
