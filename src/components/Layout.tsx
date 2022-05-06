@@ -9,9 +9,13 @@ type LayoutProps = Required<{
 const Layout = ({ children }: LayoutProps) => {
   return (
     <>
-      <Header />
+      <header>
+        <Header />
+      </header>
       <main>{children}</main>
-      <Footer />
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 };
