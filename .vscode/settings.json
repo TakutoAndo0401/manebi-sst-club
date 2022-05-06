@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["headlessui", "heroicons", "manebi"],
+  "cSpell.words": ["headlessui", "heroicons", "manebi", "Swiper"],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
