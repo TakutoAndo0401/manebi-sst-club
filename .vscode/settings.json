@@ -1,8 +1,7 @@
 {
-  "cSpell.words": [
-    "manebi"
-  ],
+  "cSpell.words": ["headlessui", "heroicons", "manebi"],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
